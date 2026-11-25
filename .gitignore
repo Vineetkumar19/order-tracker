@@ -1,0 +1,12 @@
+target/
+.idea/
+*.iml
+.env
+.env.*
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+*.tfvars
+!*.tfvars.example
+gha-creds-*.json
